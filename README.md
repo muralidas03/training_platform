@@ -18,10 +18,7 @@
 - python manage.py createsuperuser
 - python manage.py runserver
 
-## API Docs
-- /api/courses/
-- /api/students/
-...
+
 
 ## Unit Tests
-- python manage.py test
+- python manage.py runserver
