@@ -1,0 +1,20 @@
+{
+    "functions": [
+        "trainingschedule_create",
+        "course_create",
+        "student_delete",
+        "course_delete",
+        "studenttraining_update",
+        "student_create",
+        "studenttraining_create",
+        "trainingschedule_update",
+        "trainingschedule_view",
+        "course_update",
+        "studenttraining_view",
+        "student_view",
+        "student_update",
+        "studenttraining_delete",
+        "course_view",
+        "trainingschedule_delete"
+    ]
+}
