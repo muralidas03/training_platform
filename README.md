@@ -10,7 +10,7 @@
 ## Tech
 - Django
 - Django REST Framework
-- PostgreSQL / MySQL
+- SQLLITE3
 
 ## Setup
 - pip install -r requirements.txt
